@@ -1,0 +1,22 @@
+{
+    "schema": 1,
+    "name": "Miku",
+    "author": "404fr",
+    "description": "Miku",
+    "version": "1.0.0",
+    "configVersion": 31,
+    "config": "config.json",
+    "screenshots": [
+        "screenshots/1-a12aabc0.png"
+    ],
+    "changelog": [
+        {
+            "version": "1.0.0",
+            "date": "2026-11-09",
+            "notes": "First release."
+        }
+    ],
+    "wallpaper": "wallpaper.mp4",
+    "poster": "poster.jpg",
+    "banner": "banner.jpg"
+}
